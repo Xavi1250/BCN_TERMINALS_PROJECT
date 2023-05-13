@@ -42,7 +42,7 @@ A continuación se puede ver a qué terminales llegan más buques por mes:
 
 &nbsp;
 
-## 2. Análisis por Eslora de buques llegados a cada terminal
+## 2. Análisis de tiempo e operaciones de buques llegados a cada terminal por eslora
 En este apartado, se va a determinar el tamaño de los buques que llegan y la probabilidad de que vayan a una u otra terminal.
 
 En los siguientes gráficos, se representa la distribución de buques que atracan en cada terminal según la Eslora y el tiempo que tardan en operar los buques:
