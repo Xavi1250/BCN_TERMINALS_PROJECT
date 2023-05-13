@@ -90,16 +90,19 @@ Primero, se obtienen las medias de tiempo de acceso en total para BCN y para cad
 
 Ya con estos datos, se determina la probabilidad de sufrir retrasos en cada terminal, tomando como referencia que se considera retraso a todo tiempo mayor a la media de acceso a cada terminal:
 
-- La probabilidad de tardar más de la media en acceder a APMT es de: **24.67%**
-- La probabilidad de tardar más de la media en acceder a BEST es de: **38.35%**
+- La probabilidad de tardar más de la media en acceder a APMT es de: **22.81%**
+- La probabilidad de tardar más de la media en acceder a BEST es de: **32.58%**
 
 &nbsp;
 
 Segundo, se realiza el análisis por meses para determinar en qué meses se sufren más retrasos. Observemos el siguiente gráfico:
 
+![Tiempo acceso por meses y terminales](https://github.com/Xavi1250/BCN_terminals_project/blob/main/Imagenes/tiempo_acceso_terminal.png)
+
+
+Tercero, se va a realizar el análisis por día de la semana:
+
 ![]()
-
-
 
 
 
