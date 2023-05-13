@@ -102,9 +102,34 @@ Segundo, se realiza el análisis por meses para determinar en qué meses se sufr
 
 Tercero, se va a realizar el análisis por día de la semana:
 
-![]()
+![Retrasos por día](https://github.com/Xavi1250/BCN_terminals_project/blob/main/Imagenes/tiempo_acceso_dia_terminal.png)
+
+&nbsp;
+
+Y por último, y posiblemente más importante, se analiza por horas:
+
+![Retrasos por horas](https://github.com/Xavi1250/BCN_terminals_project/blob/main/Imagenes/tiempo_acceso_hora_terminal.png)
 
 
+Para calcular probabilidades, se han dividido las horas del día en 4 franjas:
 
+- franja 1 = 00:00 - 6:00
+- franja 2 = 6:00 - 12:00
+- franja 3 = 12:00 - 18:00
+- franja 4 = 18:00 - 00:00
+
+Los resultados obtenidos para APMT son:
+
+- La probabilidad de sufrir retrasos en APMT de 0h a 6h es de: **5.46%**
+- La probabilidad de sufrir retrasos en APMT de 6h a 12h es de: **15.32%**
+- La probabilidad de sufrir retrasos en APMT de 12h a 18h es de: **37.96%**
+- La probabilidad de sufrir retrasos en APMT de 18h a 24h es de: **12.15%**
+
+Los resultados obtenidos para BEST son:
+
+- La probabilidad de sufrir retrasos en BEST de 0h a 6h es de: **4.48%**
+- La probabilidad de sufrir retrasos en BEST de 6h a 12h es de: **22.08%**
+- La probabilidad de sufrir retrasos en BEST de 12h a 18h es de: **53.17%**
+- La probabilidad de sufrir retrasos en BEST de 18h a 24h es de: **32.31%**
 
 
