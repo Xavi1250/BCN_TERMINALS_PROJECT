@@ -10,6 +10,8 @@ A día de hoy, cuenta con dos grandes terminales de contenedores, **APMT** y **B
           
 ![Terminales](https://github.com/Xavi1250/BCN_terminals_project/blob/main/Imagenes/Terminales.jpeg)
 
+https://www.google.es/maps/@41.3312633,2.1588127,13.46z
+
 Gracias a la open data del puerto de Barcelona, hemos podido acceder a muchos datos relevantes sobre la operativa de estas dos terminales, y aun no haber podido acceder a otros datos de carácter confidencial, se ha podido realizar un estudio de quan eficientes son cada una de las dos terminales.
 
 &nbsp;
